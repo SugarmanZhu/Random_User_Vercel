@@ -1,29 +1,32 @@
-# random_user_generator
+# Random User Generator
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a VueJS project.
 
-## Recommended IDE Setup
+## View the Page
+Open a browser and navigate to the URL [https://random-user.zhuxiaotan.xyz](https://random-user.zhuxiaotan.xyz) to view the page.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Running the code loaclly
 
-## Customize configuration
+First, run the development server:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
+git clone https://github.com/SugarmanZhu/Random_User_Vercel.git
+cd Random_User_Vercel
 npm install
+npm dev
 ```
 
-### Compile and Hot-Reload for Development
+Then, open the browser and navigate to the URL:
 
-```sh
-npm run dev
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to view the page.
 
-### Compile and Minify for Production
+## Deploy on Vercel
 
-```sh
-npm run build
-```
+Fork this repository and then import and deploy on Vecel.
+
+More information on Vercel Deployment: [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+
+## Features
+- Click to generate a random user
+- Blue boarder for male and pink for female
+- Data is fake and comes from https://randomuser.me/ 
