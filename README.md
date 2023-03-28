@@ -3,7 +3,7 @@
 This is a VueJS project.
 
 ## View the Page
-Open a browser and navigate to the URL [https://random-user.zhuxiaotan.xyz](https://random-user.zhuxiaotan.xyz) to view the page.
+Open a browser and navigate to the URL [https://random-user.zhuxiaotan.com](https://random-user.zhuxiaotan.com) to view the page.
 
 ## Running the code loaclly
 
